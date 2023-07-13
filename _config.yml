@@ -4,3 +4,6 @@ include:
   - index.js
   - package-lock.json
   - package.json
+
+exclude:
+  - README.md
