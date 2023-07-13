@@ -1,0 +1,6 @@
+include:
+  - public/**
+  - views/**
+  - index.js
+  - package-lock.json
+  - package.json
